@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "prices": 30,
+      "features": ["Gym access", "Cardio equipment", "Strength equipment"]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "prices": 50,
+      "features": ["Gym access", "Cardio equipment", "Strength equipment", "Group classes"]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "prices": 80,
+      "features": ["Gym access", "Cardio equipment", "Strength equipment", "Group classes", "Personal training"]
+    }
+  ]
